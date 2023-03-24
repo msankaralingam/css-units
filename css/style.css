@@ -1,0 +1,22 @@
+img{
+	width:100vh;
+	width:100vw;	
+}
+html{
+	font-size:40px;
+}
+.no1{
+	font-size:20px;
+	border:1px solid black;
+}
+.no1 span{
+	     font-size: 1.5em;
+}
+.no2{
+	font-size:50px;
+	border:1px solid black;
+}
+
+.no2 span{
+	     font-size: 2.5em;
+}
